@@ -1,0 +1,5 @@
+name: CV
+channels:
+  - defaults
+  - conda-forge
+prefix: /Users/qu4ntum/miniforge3/envs/CV
